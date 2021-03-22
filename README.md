@@ -2,7 +2,7 @@
 
 Seven wonders expanding cards
 
-This is another version of 50projects50days (day-1)
+This is another version of 50projects50days
 
 Resume of main functionalities
 
